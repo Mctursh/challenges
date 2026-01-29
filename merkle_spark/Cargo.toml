@@ -1,0 +1,7 @@
+[package]
+name = "merkle_spark"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+sha2 = { workspace = true }
